@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSC548_Spring2018_ARMSim.iml" filepath="$PROJECT_DIR$/CSC548_Spring2018_ARMSim.iml" />
+      <module fileurl="file://C:\Users\pmpra\AndroidStudioProjects\CSC548_Spring2018_ARMSim\CSC548_Spring2018_ARMSim.iml" filepath="C:\Users\pmpra\AndroidStudioProjects\CSC548_Spring2018_ARMSim\CSC548_Spring2018_ARMSim.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\pmpra\AndroidStudioProjects\CSC548_Spring2018_ARMSim\app\app.iml" filepath="C:\Users\pmpra\AndroidStudioProjects\CSC548_Spring2018_ARMSim\app\app.iml" />
     </modules>
   </component>
 </project>
